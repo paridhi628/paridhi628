@@ -18,43 +18,44 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 🧩 Solving Data Structures & Algorithms in Java
 
 🎯 Aspiring Software Development Engineer
+
 ---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=java,html,css"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 </p>
 
 ### ⚙️ Backend
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
 </p>
 
 ### 🗄️ Database
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools & IDEs
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
 </p>
 
 ### 📚 Core Concepts
 
-<p>
-  <img src="https://img.shields.io/badge/OOP-007396?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Collections_Framework-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Problem_Solving-2E7D32?style=for-the-badge" />
-</p>
+- Data Structures & Algorithms (DSA)
+- Object-Oriented Programming (OOP)
+- Collections Framework
+- Problem Solving
+
+
 
 ### 🌱 Currently Learning
 
@@ -66,11 +67,19 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 ---
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Paridhi's%20GitHub%20Stats"/>
 </p>
 
+<!-- Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true"/>
+</p>
+
+<!-- Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi628&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
@@ -84,13 +93,19 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 ## 🏆 Coding Profiles
 
 <p align="center">
-<a href="https://leetcode.com/pari2709">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/pari2709/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.codechef.com/paridhi_2709">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+  <a href="https://www.codechef.com/paridhi_2709" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" alt="CodeChef" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/paridhi628" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
 </p>
 ---
 ## 🎯 2026 Goals
@@ -100,19 +115,25 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 - 💯 Solve 600+ DSA problems
 - ⭐ Improve my CodeChef rating
 - 💼 Secure a Software Development Internship
-  ---
-  ## 📫 Connect With Me
 
-<p align="center">
-<a href="www.linkedin.com/in/paridhi-98265339a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+   ---
 
-<a href="mailto:paridhi.98767@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/www.linkedin.com/in/paridhi-98265339a" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:paridhi.98767@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  
+  <a href="https://github.com/paridhi628" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
 </p>
----
+
 ---
 
 <h3 align="center">
