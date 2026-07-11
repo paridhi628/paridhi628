@@ -7,6 +7,7 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Spring+Boot+Learner;DSA+Enthusiast;Future+Backend+Developer"/>
 </p>
+
 ## 🚀 About Me
 
 🎓 B.Tech Student at ABES Engineering College
@@ -31,7 +32,9 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 
 ### ⚙️ Backend
 
-https://skillicons.dev/icons?i=spring
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48"/>
+</p>
 
 ### 🗄️ Database
 
@@ -51,7 +54,6 @@ https://skillicons.dev/icons?i=spring
 - Object-Oriented Programming (OOP)
 - Collections Framework
 - Problem Solving
-- ---
 
 ### 🌱 Currently Learning
 
@@ -59,7 +61,6 @@ https://skillicons.dev/icons?i=spring
 - REST APIs
 - JDBC
 - MySQL
-- Java Collections Framework
 - Multithreading
 - Git & GitHub
 ---
@@ -67,20 +68,20 @@ https://skillicons.dev/icons?i=spring
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi628&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi628&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paridhi628&theme=tokyo-night&hide_border=true" />
 </p>
 
-
----
 ## 🏆 Coding Profiles
 
 <p align="left">
@@ -99,6 +100,7 @@ https://skillicons.dev/icons?i=spring
   </a>
 </p>
 ---
+
 ## 🎯 2026 Goals
 
 - 📚 Master Spring Boot
@@ -112,7 +114,7 @@ https://skillicons.dev/icons?i=spring
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/paridhi-98265339a" target="_blank">
+  <a href="https://www.linkedin.com/in/paridhi-98265339a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   
@@ -126,6 +128,10 @@ https://skillicons.dev/icons?i=spring
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paridhi628&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
