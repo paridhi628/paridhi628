@@ -31,10 +31,7 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 
 ### ⚙️ Backend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
+https://skillicons.dev/icons?i=spring
 
 ### 🗄️ Database
 
@@ -54,45 +51,39 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 - Object-Oriented Programming (OOP)
 - Collections Framework
 - Problem Solving
-
-
+- ---
 
 ### 🌱 Currently Learning
 
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-</p>
+- Spring Boot
+- REST APIs
+- JDBC
+- MySQL
+- Java Collections Framework
+- Multithreading
+- Git & GitHub
 ---
+
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
-<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&custom_title=Paridhi's%20GitHub%20Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=paridhi628&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paridhi628&theme=tokyonight&hide_border=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi628&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<!-- Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paridhi628&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
----
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paridhi628&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paridhi628&theme=tokyo-night&hide_border=true" />
 </p>
+
+
 ---
 ## 🏆 Coding Profiles
 
-<p align="center">
+<p align="left">
   <a href="https://leetcode.com/pari2709/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" alt="LeetCode" width="50" height="50"/>
   </a>
