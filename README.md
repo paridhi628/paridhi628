@@ -129,10 +129,6 @@ Java Developer | Spring Boot Learner | DSA Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=paridhi628&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
